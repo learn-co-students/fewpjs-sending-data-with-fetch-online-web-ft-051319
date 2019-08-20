@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,175 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "user_name": "mon",
+      "user_email": "mon@mon.com",
+      "submit": "Submit",
+      "id": 1
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 2
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 3
+    },
+    {
+      "user_name": "lisa",
+      "user_email": "lisa@lis.com",
+      "submit": "Submit",
+      "id": 4
+    },
+    {
+      "user_name": "lisa",
+      "user_email": "lisa@lis.com",
+      "submit": "Submit",
+      "id": 5
+    },
+    {
+      "user_name": "lisa",
+      "user_email": "lisa@lis.com",
+      "submit": "Submit",
+      "id": 6
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 7
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 8
+    },
+    {
+      "user_name": "maze",
+      "user_email": "maze@maze.com",
+      "submit": "Submit",
+      "id": 9
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 10
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 11
+    },
+    {
+      "user_name": "green",
+      "user_email": "green@green.com",
+      "submit": "Submit",
+      "id": 12
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 13
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 14
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 15
+    },
+    {
+      "user_name": "real",
+      "user_email": "real@real.com",
+      "submit": "Submit",
+      "id": 16
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 17
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 18
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 19
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 20
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 21
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 22
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 23
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 24
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 25
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 26
+    },
+    {
+      "user_name": {
+        "isTrusted": true
+      },
+      "id": 27
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
